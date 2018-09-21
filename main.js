@@ -6,3 +6,5 @@ let tasks = [
     { node: 'dinner', depends: []},
     { node: 'blood moon committee', depends: []}
   ]
+
+  //I'm new to this magic thing, how do I put this in a spell?
